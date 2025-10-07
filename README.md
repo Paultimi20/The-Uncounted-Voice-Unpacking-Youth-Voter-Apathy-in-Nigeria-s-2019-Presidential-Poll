@@ -15,9 +15,9 @@ Nigeria, Africa's most populous nation, has a significant youth demographic that
 ## 2. Literature Review and Context
 Voter apathy, generally defined as a lack of interest or concern about elections, is a widespread challenge in many emerging democracies. Several factors contribute to this phenomenon, including disillusionment with political parties, a perception that votes do not count, lack of trust in electoral institutions, and socio-economic challenges [4, 5].
 
-In Nigeria, the youth population (defined by the National Youth Policy as individuals aged 18-35) constitutes a significant proportion of the electorate. Historically, youth participation in Nigerian elections has been a mixed bag, often characterized by periods of intense mobilization alongside considerable disengagement [6]. The period leading up to the 2019 general elections saw various campaigns aimed at encouraging youth participation. However, concerns about the credibility of the electoral process and the impact of vote-buying have persisted [7, 8].
+In Nigeria, the youth population, defined by the National Youth Policy as individuals aged 18–35, constitutes a significant portion of the electorate. Ahead of the 2019 general elections, various campaigns sought to enhance youth engagement, including civic awareness programs and advocacy for youth-friendly political participation [6]. Despite these initiatives, concerns regarding the credibility of the electoral process and the prevalence of vote-buying persisted, creating a psychological barrier that could reduce youth intention to vote and actual participation [7].
 
-According to data from the Independent National Electoral Commission (INEC) prior to the 2019 elections, a substantial number of young Nigerians had registered to vote. As of late 2018, INEC reported that individuals aged 18-35 constituted a significant portion of registered voters. While exact breakdowns by age and gender for voter card possession are often granular and subject to change, general trends indicated that youth voter registration was high, yet concerns about actual turnout remained [9, 10]. Specifically, INEC's pre-election statistics showed that approximately **51% of registered voters were between 18 and 35 years old**. However, precise figures for *possession* of Permanent Voter Cards (PVCs) within this demographic, broken down by gender, were not consistently and widely disseminated in detailed public reports prior to the election itself, beyond general registration numbers [11]. The focus was often on total registration and PVC collection rates, with youth representing the largest demographic group in both categories.
+Data from the Independent National Electoral Commission (INEC) prior to the 2019 elections indicate that a substantial number of young Nigerians had registered to vote. By late 2018, individuals aged 18–35 accounted for a significant portion of registered voters, demonstrating high youth registration levels; however, concerns about actual turnout remained [8, 9]. Specifically, INEC's pre-election statistics showed that **approximately 51% of registered voters were between 18 and 35 years old**, highlighting that youth represented the largest demographic group in the electorate [10,11]. These figures shows the potential electoral influence of youth while simultaneously emphasizing the importance of addressing institutional and psychological barriers to participation.
 
 ## 3. Objective
 The primary objective of this study is to analyze the voter apathy amongst Nigerian youths in the context of the 2019 presidential election.
@@ -64,7 +64,7 @@ The survey also investigated voter card possession and voting intentions among t
 The results clearly imply a high degree of voter apathy among the surveyed Nigerian youth entering the 2019 elections. This analysis suggests two primary, potentially interconnected, underlying reasons:
 
 1.  **Lack of Civic Education and Belief in Vote Efficacy:** The high percentage of preferred candidates who are not perceived as winners, coupled with the low intention to vote, could indicate that many youths lack a clear understanding of how their collective votes can influence election outcomes. The video associated with this study aimed to address this by illustrating that collective action at the ballot box could indeed lead to their preferred candidate's victory.
-2.  **Distrust in the Electoral Process:** The significant gap between preferred candidates and perceived winners strongly suggests a distrust in the election system itself. If youths believe the electoral process is rigged or that their votes will not genuinely count, they are less likely to participate, regardless of their candidate preferences. This lack of trust is a pervasive issue in many emerging democracies and can be exacerbated by past electoral irregularities or perceptions of systemic bias [12].
+2.  **Distrust in the Electoral Process:** The significant gap between preferred candidates and perceived winners strongly suggests a distrust in the election system itself. If youths believe the electoral process is rigged or that their votes will not genuinely count, they are less likely to participate, regardless of their candidate preferences. This lack of trust is a pervasive issue in many emerging democracies and can be exacerbated by past electoral irregularities or perceptions of systemic bias [5].
 
 ## 6. Limitations and Recommendations
 
@@ -85,16 +85,31 @@ The 2019 Nigerian presidential election was marked by significant voter apathy a
 
 ## References
 
-[1] Dalton, R. J. (2004). *Democratic Challenges, Democratic Choices: The Erosion of Political Support in Advanced Industrial Democracies*. Oxford University Press.
-[2] Norris, P. (2002). *Democratic Phoenix: Reinventing Political Activism*. Cambridge University Press.
-[3] Bratton, M., & van de Walle, N. (1997). *Democratic Experiments in Africa: Regime Transitions in Comparative Perspective*. Cambridge University Press.
-[4] Blais, A. (2000). *To Vote or Not to Vote: The Merits and Limits of Rational Choice Theory*. University of Pittsburgh Press.
-[5] Adeyemi, A. O. (2017). "Youth Participation in Nigeria's Electoral Process: Challenges and Prospects." *Journal of Political Science and Public Affairs*, 5(2), 1-8.
-[6] Lewis, P. M. (2018). *Nigeria: Elections and the Struggle for Democracy*. Lynne Rienner Publishers.
-[7] Omotola, J. S. (2010). "The 2011 General Elections in Nigeria: Challenges and Prospects." *Journal of African Elections*, 9(1), 1-19.
-[8] African Union Election Observation Mission (AUEOM) to Nigeria (2015). *Preliminary Statement on the 28 March 2015 Presidential and National Assembly Elections in the Federal Republic of Nigeria*.
-[9] Independent National Electoral Commission (INEC). (2018). *Distribution of Registered Voters by State, Gender and Age Group (as at 27th August 2018)*. INEC Nigeria.
-[10] International Republican Institute (IRI) & National Democratic Institute (NDI). (2018). *Pre-election Assessment Mission to Nigeria: October 28–November 2, 2018*. IRI & NDI.
-[11] Independent National Electoral Commission (INEC). (2018). *Update on the Continuous Voter Registration (CVR) and Collection of Permanent Voter Cards (PVCs)*. INEC Press Release, December 2018.
-[12] Birch, S. (2007). *Are Elections Fulfilling their Role? The Impact of Electoral Malpractice on Political Trust*. Electoral Studies, 26(3), 518-531.
+## References
+
+[1] R. J. Dalton, *Democratic Challenges, Democratic Choices: The Erosion of Political Support in Advanced Industrial Democracies.* Oxford, UK: Oxford University Press, 2004.
+
+[2] P. Norris, *Democratic Phoenix: Reinventing Political Activism.* Cambridge, UK: Cambridge University Press, 2002.
+
+[3] M. Bratton and N. van de Walle, *Democratic Experiments in Africa: Regime Transitions in Comparative Perspective.* Cambridge, UK: Cambridge University Press, 1997.
+
+[4] A. Blais, *To Vote or Not to Vote: The Merits and Limits of Rational Choice Theory.* Pittsburgh, PA: University of Pittsburgh Press, 2000.
+
+[5] J. Kwak, I. Tomescu-Dubrow, K. M. Slomczynski, and J. K. Dubrow, "Youth, Institutional Trust, and Democratic Backsliding," *American Behavioral Scientist,* vol. 64, no. 10, pp. 1405–1425, 2020.
+
+[6] Yiaga Africa, 2019 Youth Fact Sheet: Youth and the 2019 Elections in Nigeria, Yiaga Africa, 2024. [Online]. Available: https://yiaga.org/wp-content/uploads/2024/04/Factsheet-on-youth-and-the-2019-elections-in-Nigeria-copyedited.pdf
+. [Accessed: 7 Oct. 2025].
+
+[7] J. S. Omotola and G. Aiyedogbon, "Political participation and voter turnout in Nigeria's 2011 elections," Journal of African Elections, vol. 11, no. 1, pp. 54–76, May 2012.
+
+[8] African Union Election Observation Mission (AUEOM) to Nigeria, *Preliminary Statement on the 28 March 2015 Presidential and National Assembly Elections in the Federal Republic of Nigeria,* 2015.
+
+[9] Independent National Electoral Commission (INEC), *Distribution of Registered Voters by State, Gender and Age Group (as at 27th August 2018).* Abuja, Nigeria: INEC, 2018.
+
+[10] International Republican Institute (IRI) and National Democratic Institute (NDI), *Pre-election Assessment Mission to Nigeria: October 28–November 2, 2018.* Washington, DC: IRI & NDI, 2018.
+
+[11] IFES, *Elections in Nigeria: 2019 General Elections — Frequently Asked Questions*. Arlington, VA: International Foundation for Electoral Systems, 2019. [Online]. Available: https://www.ifes.org/sites/default/files/migrate/2019_ifes_nigeria_general_elections_faqs_final.pdf
+
+[12] J. Kwak, I. Tomescu-Dubrow, K. M. Slomczynski, and J. K. Dubrow, "Youth, Institutional Trust, and Democratic Backsliding," *American Behavioral Scientist,* vol. 64, no. 10, pp. 1405–1425, 2020.
+
 
