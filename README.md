@@ -1,7 +1,7 @@
 # The Uncounted Voice - Unpacking Youth Voter Apathy in Nigeria's 2019 Presidential Poll
 
 ---
-*This report stems from a survey I conducted with the aim of crafting a compelling and educative story from data. Watch the short story here: [https://tinyurl.com/2019-Election-Story](https://tinyurl.com/2019-Election-Story). Alternatively, refer to my pinned post on LinkedIn: [linkedin.com/in/paul-timi-20](https://www.linkedin.com/in/paul-timi-20).*
+*This report stems from a survey I conducted with the aim of crafting a compelling and educative story from data. Watch the short story here: [link here](https://tinyurl.com/2019-Election-Story). Alternatively, refer to my pinned post on [LinkedIn:](https://www.linkedin.com/in/paul-timi-20).*
 
 ---
 ## Abstract
